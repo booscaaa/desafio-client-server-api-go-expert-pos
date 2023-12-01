@@ -23,7 +23,7 @@ Na pasta "style-2", você encontrará a resolução direta do desafio de program
 2. **Acesse o diretório do desafio:**
 
     ```bash
-    cd style-2
+    cd desafio-client-server-api-go-expert-pos
     ```
 
 3. **Execute o server.go:**
@@ -60,7 +60,7 @@ Na pasta "style-2", você encontrará a resolução direta do desafio de program
 2. **Acesse o diretório do desafio:**
 
     ```bash
-    cd style-1
+    cd desafio-client-server-api-go-expert-pos
     ```
 
 3. **Execute o server.go:**
