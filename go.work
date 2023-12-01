@@ -1,0 +1,6 @@
+go 1.21.4
+use (
+    ./style-1
+    ./style-2/server
+    ./style-2/client
+)
