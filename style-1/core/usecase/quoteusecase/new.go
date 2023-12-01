@@ -1,6 +1,6 @@
 package quoteusecase
 
-import "github.com/desafio-client-server-api-go-expert-pos/style-1/core/domain"
+import "github.com/booscaaa/desafio-client-server-api-go-expert-pos/style-1/core/domain"
 
 type usecase struct {
 	repository      domain.QuoteRepository

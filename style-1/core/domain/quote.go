@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/desafio-client-server-api-go-expert-pos/style-1/core/dto"
+	"github.com/booscaaa/desafio-client-server-api-go-expert-pos/style-1/core/dto"
 )
 
 type Quote struct {

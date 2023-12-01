@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/desafio-client-server-api-go-expert-pos/style-1/core/domain"
+	"github.com/booscaaa/desafio-client-server-api-go-expert-pos/style-1/core/domain"
 )
 
 func (repository repository) Create(ctx context.Context, quote *domain.Quote) (*domain.Quote, error) {

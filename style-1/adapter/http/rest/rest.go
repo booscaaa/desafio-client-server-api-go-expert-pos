@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/desafio-client-server-api-go-expert-pos/style-1/di"
+	"github.com/booscaaa/desafio-client-server-api-go-expert-pos/style-1/di"
 	"gorm.io/gorm"
 )
 

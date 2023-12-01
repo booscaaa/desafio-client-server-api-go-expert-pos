@@ -1,4 +1,4 @@
-module github.com/desafio-client-server-api-go-expert-pos/style-1
+module github.com/booscaaa/desafio-client-server-api-go-expert-pos/style-1
 
 go 1.21.4
 

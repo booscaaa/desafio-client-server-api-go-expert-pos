@@ -17,7 +17,7 @@ Na pasta "style-2", você encontrará a resolução direta do desafio de program
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/desafio-client-server-api-go-expert-pos.git
+    git clone https://github.com/booscaaa/desafio-client-server-api-go-expert-pos.git
     ```
 
 2. **Acesse o diretório do desafio:**
@@ -54,7 +54,7 @@ Na pasta "style-2", você encontrará a resolução direta do desafio de program
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/desafio-client-server-api-go-expert-pos.git
+    git clone https://github.com/booscaaa/desafio-client-server-api-go-expert-pos.git
     ```
 
 2. **Acesse o diretório do desafio:**

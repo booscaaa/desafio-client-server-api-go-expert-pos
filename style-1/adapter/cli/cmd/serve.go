@@ -4,9 +4,9 @@ Copyright © 2023 NAME HERE <EMAIL ADDRESS>
 package cmd
 
 import (
-	"github.com/desafio-client-server-api-go-expert-pos/style-1/adapter/http/rest"
-	"github.com/desafio-client-server-api-go-expert-pos/style-1/adapter/httpclient"
-	"github.com/desafio-client-server-api-go-expert-pos/style-1/adapter/sqlite"
+	"github.com/booscaaa/desafio-client-server-api-go-expert-pos/style-1/adapter/http/rest"
+	"github.com/booscaaa/desafio-client-server-api-go-expert-pos/style-1/adapter/httpclient"
+	"github.com/booscaaa/desafio-client-server-api-go-expert-pos/style-1/adapter/sqlite"
 	"github.com/spf13/cobra"
 )
 

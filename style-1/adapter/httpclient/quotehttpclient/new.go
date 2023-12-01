@@ -3,7 +3,7 @@ package quotehttpclient
 import (
 	"net/http"
 
-	"github.com/desafio-client-server-api-go-expert-pos/style-1/core/domain"
+	"github.com/booscaaa/desafio-client-server-api-go-expert-pos/style-1/core/domain"
 )
 
 type httpclient struct {

@@ -3,8 +3,8 @@ package quoteusecase
 import (
 	"context"
 
-	"github.com/desafio-client-server-api-go-expert-pos/style-1/core/domain"
-	"github.com/desafio-client-server-api-go-expert-pos/style-1/core/dto"
+	"github.com/booscaaa/desafio-client-server-api-go-expert-pos/style-1/core/domain"
+	"github.com/booscaaa/desafio-client-server-api-go-expert-pos/style-1/core/dto"
 )
 
 func (usecase usecase) Get(ctx context.Context) (*dto.QuoteOutput, error) {

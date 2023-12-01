@@ -1,6 +1,6 @@
 package quotehttpservice
 
-import "github.com/desafio-client-server-api-go-expert-pos/style-1/core/domain"
+import "github.com/booscaaa/desafio-client-server-api-go-expert-pos/style-1/core/domain"
 
 type service struct {
 	usecase domain.QuoteUseCase
