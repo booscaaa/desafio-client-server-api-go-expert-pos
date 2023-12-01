@@ -10,7 +10,7 @@ Na pasta "style-1", você encontrará uma implementação cuidadosamente estrutu
 
 ## Estilo 2 - Resolução do Desafio:
 
-Na pasta "style-2", você encontrará a resolução direta do desafio de programação conforme as especificações fornecidas. Aqui, o foco está na entrega eficiente e direta da solução solicitada. O código pode ser estruturado de maneira mais tradicional, com a ênfase na lógica de negócios e na implementação dos requisitos do desafio. Este estilo pode ser mais pragmático e direto, proporcionando uma solução funcional e eficaz. Gostaria de ouvir sua opinião sobre a eficácia da resolução em atender aos requisitos do desafio, se os resultados estão corretos e se há algum aspecto que poderia ser melhorado em termos de clareza, eficiência ou boas práticas de programação.
+Na pasta "style-2", você encontrará a resolução direta do desafio de programação conforme as especificações fornecidas. Aqui, o foco está na entrega eficiente e direta da solução solicitada. O código pode ser estruturado de maneira mais tradicional, com a ênfase na lógica de negócios e na implementação dos requisitos do desafio. Este estilo pode ser mais pragmático e direto.
 
 ## Passos para Execução - Estilo 2 - Resolução do Desafio:
 
