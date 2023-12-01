@@ -1,0 +1,10 @@
+style-1/tmp
+style-1/data
+
+style-1/go.sum
+style-2/go.sum
+
+go.work.sum
+
+desafio-client-server.db
+cotacao.txt
