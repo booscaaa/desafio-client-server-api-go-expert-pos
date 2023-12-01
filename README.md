@@ -71,7 +71,7 @@ Na pasta "style-2", você encontrará a resolução direta do desafio de program
         docker compose up --build -d
 
         # O servidor estará disponível em http://localhost:8080.
-        # O banco de dados estará disponível em .data/desafio-client-server.db
+        # O banco de dados estará disponível em ./data/desafio-client-server.db
         ```
     - **Acompanhe os logs:**
         ```bash
