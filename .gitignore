@@ -2,7 +2,8 @@ style-1/tmp
 style-1/data
 
 style-1/go.sum
-style-2/go.sum
+style-2/client/go.sum
+style-2/server/go.sum
 
 go.work.sum
 
